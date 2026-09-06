@@ -1,8 +1,7 @@
  
-#Questao_1
-print("Registro do tempo total de execução da rotina de processamento /n ")
-tempoh = int (input("Digite o numero de horas de execução:  /n"))
-tempom = int (input("Digite o numero de minutos:  /n"))
+print("Registro do tempo total de execução da rotina de processamento \n ")
+tempoh = int (input("Digite o numero de horas de execução:  \n"))
+tempom = int (input("Digite o numero de minutos:  \n"))
 
 tempohm = tempoh * 60
 tempohsomam = tempohm+tempom
