@@ -28,4 +28,4 @@ Total: 74 Questões
 ## Orientações necessárias para a execução dos códigos:
 Ter o Python 3 instalado no computador
 Copiar o repositório ou baixar os arquivos 
-Seguir as instruções exibidas no terminal (a maioria das questões precisam de valores de entrada do usuário). 
+Seguir as instruções exibidas no terminal (a maioria das questões precisam de valores de entrada do usuário)
