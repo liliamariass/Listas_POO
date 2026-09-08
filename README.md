@@ -15,5 +15,7 @@ Lista 2: Também foram trabalhados os conteúdos da lista 1, mas na lista 2 eles
 Lista 3: A lista 3 sou as questões das listas anteriores como base, foi utilizado funções, estruturas de repetição e operadores. Mas o foco foi o uso de dicionários e listas em problemas mais complexos, além da leitura e escrita em arquivos, organização do código em funções e introdução aos conceitos de Programação Orientada a Objetos.
  
 ##Organização das questões
+Cada lista está salva em sua própria pasta (Lista_1, Lista_2, Lista_3), armazenando um arquivo .py por questão. A maioria dos arquivos está salvo com a nomenclatura L(numero da lista)Q(número da questão).py (ex: L1Q02.py).
+OBS: com exceção da primeira questão de cada lista, estão salvas por extenso para ter destaque. (ex: Lista1_questao1)
  
 ##Orientações necessárias para a execução dos códigos 
