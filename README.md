@@ -16,6 +16,6 @@ Lista 3: A lista 3 sou as questões das listas anteriores como base, foi utiliza
  
 ##Organização das questões
 Cada lista está salva em sua própria pasta (Lista_1, Lista_2, Lista_3), armazenando um arquivo .py por questão. A maioria dos arquivos está salvo com a nomenclatura L(numero da lista)Q(número da questão).py (ex: L1Q02.py).
-OBS: com exceção da primeira questão de cada lista, estão salvas por extenso para ter destaque. (ex: Lista1_questao1)
+OBS: com exceção da primeira questão de cada lista, estão salvas por extenso(e com o número 1 no início) para ter destaque. (1Lista1_Questao1, 1Lista2_Questao1, 1Lista3_Questao1)
  
 ##Orientações necessárias para a execução dos códigos 
