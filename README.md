@@ -20,6 +20,10 @@ Também foram trabalhados os conteúdos da lista 1, mas na lista 2 eles foram us
 ## Organização das questões:
 Cada lista está salva em sua própria pasta (Lista_1, Lista_2, Lista_3), armazenando um arquivo .py por questão. A maioria dos arquivos está salvo com a nomenclatura L(numero da lista)Q(número da questão).py (ex: L1Q02.py).
 OBS: com exceção da primeira questão de cada lista, estão salvas por extenso(e com o número 1 no início) para ter destaque. (1Lista1_Questao1, 1Lista2_Questao1, 1Lista3_Questao1)
+Lista 1: Questões 1 a 34
+Lista 2: Questões 1 a 20
+Lista 3: Questões 1 a 20
+Total: 74 Questões 
  
 ## Orientações necessárias para a execução dos códigos:
 Ter o Python 3 instalado no computador
