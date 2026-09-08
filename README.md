@@ -1,2 +1,3 @@
 # Listas_POO/
-Listas de Programação Orientada a Objetos 2026
+#Lista de questões de Programação Orientada a Objetos 2026
+##Identificação da atividade:
