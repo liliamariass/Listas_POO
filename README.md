@@ -12,8 +12,7 @@ Lista 1: Foram trabalhados conteúdos básicos envolvendo comandos de entrada e 
 
 Lista 2: Também foram trabalhados os conteúdos da lista 1, mas na lista 2 eles foram usados como base para focar em outros conteúdos. O foco na lista 2 foi em laços de repetição (for e while), operadores(foi mais utilizado operadores lógicos), tratamento de exceções, funções e coleções (listas e dicionários)
 
-Lista 3:
-
+Lista 3: A lista 3 sou as questões das listas anteriores como base, foi utilizado funções, estruturas de repetição e operadores. Mas o foco foi o uso de dicionários e listas em problemas mais complexos, além da leitura e escrita em arquivos
  
 ##Organização das questões
  
